@@ -1,3 +1,6 @@
+# Filename : test.py
+# author by : www.w3cschool.cn
+
 str = "www.wfuyu.com"
 print(str.upper())          # 把所有字符中的小写字母转换成大写字母
 print(str.lower())          # 把所有字符中的大写字母转换成小写字母
